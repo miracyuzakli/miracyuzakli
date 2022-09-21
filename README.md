@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-12419
-Fork on GitHub
-3128
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h3 align="center">A passionate Python developer in Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miracyuzakli&label=Profile%20views&color=0e75b6&style=flat" alt="miracyuzakli" /> </p>
