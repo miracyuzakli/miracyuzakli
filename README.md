@@ -4,6 +4,7 @@
         alt="miracyuzakli" /></p>
 <li align="left"> 🔭 I work in Data Science, Machine Learning, Backend Development.</li>
 <p></p>
+<h1></h1>
  <p align="left">
         <a href="#" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
