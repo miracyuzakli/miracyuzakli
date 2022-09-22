@@ -3,6 +3,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracyuzakli&langs_count=8&langs_count=7&theme=dracula"
         alt="miracyuzakli" /></p>
 <li> 🔭 I work in Data Science, Machine Learning, Backend Development.</li>
+<p></p>
  <p align="left">
         <a href="#" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
