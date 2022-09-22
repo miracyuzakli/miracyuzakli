@@ -1,7 +1,8 @@
-<h1 align="left">Hi there 👋</h1>
+
 <img align="right"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracyuzakli&langs_count=7&theme=dracula"
         alt="miracyuzakli" />
+<h1 align="left">Hi there 👋</h1>
 <li>🔭 I work in Data Science, Machine Learning, Backend Development.</li>
 <p></p>
 <h1></h1>
