@@ -25,11 +25,11 @@ I am a software developer with deep expertise in **Machine Learning, Data Scienc
              alt="javascript" width="40" height="40" />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+        <img src="https://www.svgrepo.com/show/353657/django-icon.svg"
              alt="django" width="40" height="40" />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
+        <img src="https://www.svgrepo.com/show/473611/flask.svg"
              alt="flask" width="40" height="40" />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
