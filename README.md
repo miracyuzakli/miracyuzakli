@@ -2,12 +2,6 @@
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracyuzakli&theme=tokyonight"
      alt="miracyuzakli" />
 
-<li>🔭 I specialize in Data Science, Machine Learning, Backend Development, Web Scraping, and AI Agent Development.</li>
-
-<p></p>
-
-<h1></h1>
-
 ## 👋 Hello, I'm Miraç Yüzaklı
 I am a software developer with deep expertise in **Machine Learning, Data Science, Backend Development, Web Scraping**, and **AI Agent Development**. My projects focus on building highly scalable APIs, optimizing data engineering workflows, and integrating large language models (LLMs) to solve complex natural language processing tasks.
 
