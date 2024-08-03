@@ -2,7 +2,6 @@
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracyuzakli&theme=tokyonight"
      alt="miracyuzakli" />
 
-<h1 align="left">Hi there 👋</h1>
 <li>🔭 I specialize in Data Science, Machine Learning, Backend Development, Web Scraping, and AI Agent Development.</li>
 
 <p></p>
@@ -70,4 +69,4 @@ I am a software developer with deep expertise in **Machine Learning, Data Scienc
 - Building high-performance data infrastructures for real-time data processing and analysis.
 
 ## 🌐 Contact & Collaboration
-Feel free to explore my repositories and reach out if you're interested in collaboration or consulting. For more information, visit my [LinkedIn profile](https://www.linkedin.com/in/miracyuzakli).
+Feel free to explore my repositories and reach out if you're interested in collaboration or consulting. For more information, visit my [LinkedIn profile](https://www.linkedin.com/in/muhammet-mira%C3%A7-0564631a0/).
